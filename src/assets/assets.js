@@ -35,6 +35,7 @@ import oh_manapenne from "./img/song-thumb/oh-manapennae.png";
 import coolie from "./img/song-thumb/coolie.webp";
 import sirai from "./img/song-thumb/sirai.webp";
 import kuthu from "./img/song-thumb/kuthu.jpg";
+import jana_nayagan from "./img/song-thumb/jana-nayagan.webp";
 
 
 import tensromance from "./img/10s-romance-tamil.jpg";
@@ -57,6 +58,7 @@ import bodhaikaname from "./songs/Bodhai-Kaname.mp3";
 import monica from "./songs/Monica.mp3";
 import neelothi from "./songs/Neelothi.mp3";
 import ennaitheendivittai from  "./songs/Ennai-Theendi-Vittai.mp3";
+import thalapathykacheri from "./songs/Thalapathy Kacheri.mp3";
 
 
 
@@ -236,6 +238,13 @@ export const songsData = [
     desc: "A romantic and melodious song that captures deep love with soft, soothing vibes",
     duration: "3:26",
   },
-  
+  {
+    id:11,
+    name: "Thalapathy Kacheri",
+    image: jana_nayagan,
+    file: thalapathykacheri,
+    desc: "A energetic track that will get you moving",
+    duration: "3:45",
+  }
 
 ];
